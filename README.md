@@ -1,5 +1,5 @@
 # tarea1TecnicasProgramacion
-Tarea1
+Tarea1 cyrso 2022/2023
 ## __Nota__
 Mi repositorio es https://github.com/hodeione/tarea1TecnicasProgramacion.git
 
