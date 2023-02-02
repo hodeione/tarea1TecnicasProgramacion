@@ -1,6 +1,6 @@
 # tarea1TecnicasProgramacion
 Tarea1
-#__Nota__
+## __Nota__
 Mi repositorio es https://github.com/hodeione/tarea1TecnicasProgramacion.git
 
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
