@@ -1,1 +1,2 @@
 //¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?
+//Seran algoritmos distintos a los que ejecuto yo, pero, estos algoritmos que hacen los juegos como la optimizacion de los graficos, o rutinas que tengan para poder ejecutarlos

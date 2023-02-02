@@ -1,1 +1,2 @@
 //¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?
+//Si, he echo algoritmos para programas, como por ejemplo, un programa que me permita calcular el area de un circulo, o un programa que me permita calcular el area de un triangulo, muchos metodos.
