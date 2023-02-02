@@ -1,5 +1,8 @@
 # tarea1TecnicasProgramacion
 Tarea1
+__Nota__
+Mi repositorio es https://github.com/hodeione/tarea1TecnicasProgramacion.git
+
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:__
 * ¿Qué algoritmos usas en tu vida cotidiana? ¿Piensas que podrías escribir un programa para hacerlos más eficientes?
